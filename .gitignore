@@ -1,0 +1,18 @@
+# Python bytecode and cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ChromaDB persistent data
+demo-rag-chroma/
+
+# Configuration files containing sensitive information
+config.yaml
+
+# Virtual environment directories (if any)
+venv/
+env/
+
+# Operating system files
+.DS_Store
+Thumbs.db
